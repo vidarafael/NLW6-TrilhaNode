@@ -16,4 +16,13 @@ Fizemos toda tratativa de erros da aplicação até o momento, criamos toda a es
 
 # 04 dia NLW06
 
-No dia de hoje o principal aprendizado foi de autenticação de usuário com JWT, fizemos a criação das rotas de autenticação e de elogios(compliments), um dos aprendizados também foi da relações de tabelas e de como criar uma coluna com a tabela já feita.
+No dia de hoje o principal aprendizado foi de autenticação de usuário com JWT, fizemos a criação das rotas de autenticação(porém ainda não esta validando, apenas possui regra de negócio) e de elogios(compliments), um dos aprendizados também foi da relações de tabelas e de como criar uma coluna com a tabela já feita.
+
+# Ultimo dia NLW06
+
+Ultimo dia nlw, nesse dia finalizamos a API, criamos os middlewares de autenticação, criamos as rotas de listar todos os usuários, listar tags, listar elogios e também listar todos os usuários que recebeu elogios, essa semana foi intensa e de grandes aprendizados.
+Obrigado Time da Rocketseat 💜
+
+---
+
+Feito com 💖 <a href="https://www.linkedin.com/in/rafael-freitas-65382420b/">Rafael Freitas</a>
